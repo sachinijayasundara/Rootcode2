@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Journey"
+        android:id="@+id/journey"
+        android:icon="@drawable/journey"/>
+
+    <item android:title="Bookings"
+        android:id="@+id/bookings"
+        android:icon="@drawable/bookings"/>
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/home"/>
+
+    <item android:title="Planets"
+        android:id="@+id/planets"
+        android:icon="@drawable/planets"/>
+
+
+    <item android:title="Profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/profile"/>
+</menu>
